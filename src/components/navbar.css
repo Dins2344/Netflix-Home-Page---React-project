@@ -1,0 +1,20 @@
+.navbar{
+    position: fixed;
+    width:100% ;
+    height: 40px;
+    background-color: rgb(24, 18, 18);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.userPicture{
+    position: fixed;
+    right: 20px;
+    width: 35px;
+}
